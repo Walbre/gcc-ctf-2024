@@ -6,4 +6,4 @@
 - [[Hard] MLWeb](web-mlweb/readme.md)
 
 ## Misc :
-- [[Medium] Legerdemain & Legerdemain Revenge](legerdemain&legerdemain-revenge/readme.md)
+- [[Medium] Legerdemain & Legerdemain Revenge](misc-legerdemain&legerdemain-revenge/readme.md)
