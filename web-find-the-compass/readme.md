@@ -149,6 +149,6 @@ Now that we have the token, it's possible to replace the old one ans refresh the
 
 If we create the reminder `{self.coordinates}`, the flag appears.
 
-[screen](images/screen1.png)
+![screen](images/screen1.png)
 
 Thals for the challenge !
