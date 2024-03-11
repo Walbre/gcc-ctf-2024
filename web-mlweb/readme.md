@@ -4,7 +4,7 @@
 
 ## Website overview
 
-Looking at the source code, there are somme interesting parts :
+Looking at the source code, there are some interesting parts :
 
 In : routes/routes_user.py
 ```py
@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 ```
 
-In this template, we can use a username like `../where/u/want` to do a get somewhere on the website.
+In this template, we can use a username like `../where/u/want?` to do a get somewhere on the website.
 
 
 In : routes/admin_routes.py
